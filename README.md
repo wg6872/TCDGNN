@@ -1,7 +1,7 @@
 # Temporal Community Detection using Graph Neural Networks (TCDGNN)
 This repository contains the dataset components and code used for the Fall 2025 independent work project, "Understanding User Dynamics in FakeNewsNet: User Classification and Community Detection Through Time Using Graph Neural Networks." 
 
-This project was made for COS IW02: Machine Learning and Data Science.
+This project was made for COS IW02: Machine Learning and Data Science, taught by Professor Xiaoyan Li.
 
 For inquiries, email wg6872@princeton.edu
 
